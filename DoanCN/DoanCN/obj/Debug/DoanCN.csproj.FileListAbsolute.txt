@@ -1,0 +1,124 @@
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\DoanCN.exe.config
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\DoanCN.exe
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\DoanCN.pdb
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.csprojResolveAssemblyReference.cache
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Form1.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Properties.Resources.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.csproj.GenerateResource.Cache
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.exe
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.pdb
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Banle.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.ChamCong.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Chonsanpham.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.GDKetoan.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.GDQuanLi.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.NhapKho.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Upnhanvien.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Upsanpham.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.XuatKho.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Chonsanphamnhap.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.QLDoiMatKhau.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.NVDoiMatKhau.resources
+D:\doanCN\DoanCN\DoanCN\bin\Debug\DoanCN.exe.config
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.exe
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.pdb
+D:\doanCN\DoanCN\DoanCN\bin\Debug\DoanCN.exe
+D:\doanCN\DoanCN\DoanCN\bin\Debug\DoanCN.pdb
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.csprojResolveAssemblyReference.cache
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Banle.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.ChamCong.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Chonsanpham.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Chonsanphamnhap.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Form1.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.GDKetoan.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.GDQuanLi.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.NhapKho.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.NVDoiMatKhau.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Properties.Resources.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.QLDoiMatKhau.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Upnhanvien.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.Upsanpham.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.XuatKho.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.csproj.GenerateResource.Cache
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.ThongKeDoanhThu.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.Shared.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\ShockwaveFlashObjects.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\stdole.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.RP_XuatKhau.resources
+D:\Hoctap\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.ViewINHOADON.resources
+D:\doanCN\DoanCN\DoanCN\bin\Debug\ShockwaveFlashObjects.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\stdole.dll
+D:\doanCN\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.RP_XuatKhau.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.ThongKeDoanhThu.resources
+D:\doanCN\DoanCN\DoanCN\obj\Debug\DoanCN.ViewINHOADON.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\DoanCN.exe.config
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.exe
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.pdb
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\DoanCN.exe
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\DoanCN.pdb
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.Shared.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\ShockwaveFlashObjects.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\stdole.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.csprojResolveAssemblyReference.cache
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.Banle.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.ChamCong.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.Chonsanpham.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.Chonsanphamnhap.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.Form1.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.GDKetoan.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.GDQuanLi.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.NhapKho.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.NVDoiMatKhau.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.Properties.Resources.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.QLDoiMatKhau.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.RP_XuatKhau.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.ThongKeDoanhThu.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.Upnhanvien.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.Upsanpham.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.ViewINHOADON.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.XuatKho.resources
+D:\Hoctap\DoAnCN - 018101092\DoanCN\DoanCN\obj\Debug\DoanCN.csproj.GenerateResource.Cache
